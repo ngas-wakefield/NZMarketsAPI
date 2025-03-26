@@ -1,0 +1,5 @@
+.env
+events.json
+RssRegions
+rss.json
+node_modules
